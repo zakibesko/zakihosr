@@ -1,0 +1,5 @@
+Hello World!
+This is a text file.
+You can read this easily.
+Numbers: 12345
+Arabic: مرحبا بالعالم

@@ -1,0 +1,10 @@
+Hello! This is some sample text content.
+
+This file was created to be read by your program. You can add any text you like here - paragraphs, data, or even structured information.
+
+Here's some more text:
+- Line 1: Learning file handling
+- Line 2: Reading and writing files
+- Line 3: Python makes it easy
+
+Feel free to replace this with your own content!
